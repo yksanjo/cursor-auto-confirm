@@ -1,5 +1,12 @@
 # cursor-auto-confirm
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cursor-auto-confirm/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cursor-auto-confirm/actions)
+![License](https://img.shields.io/github/license/yksanjo/cursor-auto-confirm)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cursor-auto-confirm)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cursor-auto-confirm)
+
 ## Detailed Description
 
 cursor-auto-confirm is maintained as an industry-grade software project with production-ready engineering practices.  
